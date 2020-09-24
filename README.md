@@ -1,3 +1,3 @@
-# 언어 배우는 단계
+# NOtHiNG HeRe
  
- -혼자 심심할때 만들어 놓는곳
+OH ThAt'S NOt GOOd..
