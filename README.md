@@ -16,5 +16,6 @@
  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naixt1478&show_icons=true&theme=onedark&hide_border=true)](https://github.com/naixt1478)      
+[![trophy](https://github-profile-trophy.vercel.app/?username=naixt1478&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naixt1478&show_icons=true&theme=onedark&hide_border=true)](https://github.com/naixt1478)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naixt1478&theme=onedark&layout=default&hide=ZenScript&langs_count=6&hide_border=true)](https://github.com/naixt1478)
