@@ -13,9 +13,9 @@ History
 ---
 ###  naixt1478's Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=naixt1478&theme=white&count_private=true&column=5&no-frame=true)](https://github.com/naixt1478)
+[![trophy](https://github-profile-trophy.vercel.app/?username=naixt1478&theme=white&count_private=true&column=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naixt1478&show_icons=true&theme=white&hide_border=true)](https://github.com/naixt1478)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naixt1478&show_icons=true&theme=white&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naixt1478&theme=white&layout=compact&hide=ZenScript&langs_count=8&hide_border=true)](https://github.com/naixt1478)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naixt1478&theme=white&layout=compact&hide=ZenScript&langs_count=8&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![naixt1478's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=naixt1478&hide_border=true)](solved.ac/naixt1478)
