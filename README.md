@@ -1,4 +1,4 @@
-[WARN] This devloper is unstable please uninstall
+[WARN] This developer is unstable please uninstall
 =====
 
 ### 현재 배우고있는 주된 언어들 
@@ -12,6 +12,7 @@
 working on stage
 ---
 - Brickjoon : algorithm study for c/c++ script (now baekjoon in project) codeforce soon?
+
 more soon projects :)
 
 History
