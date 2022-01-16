@@ -19,7 +19,7 @@ History
 ---
 ###  naixt1478's Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=naixt1478&theme=onedark&no-bg=true&column=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=naixt1478&theme=gruvbox&no-bg=true&column=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![naixt1478's GitHub stats](https://github-readme-stats.vercel.app/api?username=naixt1478&theme=gruvbox_light&hide_border=true&bg_color=null)](https://github.com/anuraghazra/github-readme-stats)  
 
