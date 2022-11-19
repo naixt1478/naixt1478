@@ -2,8 +2,11 @@ Hello World!
 =====
 
 ### 현재 배우고있는 주된 언어들 
-
-<img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=black&color=black"/> <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&labelColor=black&color=black"/> ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
+![CMake](https://img.shields.io/badge/CMake-black?style=for-the-badge&logo=CMake&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-black?style=for-the-badge&logo=PowerShell&logoColor=white)
 
 ### 나중에 배울 언어?
 
