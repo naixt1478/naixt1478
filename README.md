@@ -15,6 +15,7 @@ Hello World!
 working on stage
 ---
 - Brickjoon : algorithm study for c/c++ script (now baekjoon in project) codeforce soon?
+- The PRE ALPHA project : learn everything of C,C++ and write they 
 
 more soon projects :)
 
