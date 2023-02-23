@@ -27,4 +27,3 @@ History
 [![naixt1478's GitHub stats](https://github-readme-stats.vercel.app/api?username=naixt1478&theme=gruvbox_light&hide_border=true&bg_color=null)](https://github.com/anuraghazra/github-readme-stats)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naixt1478&theme=gruvbox_light&layout=compact&hide=ZenScript&langs_count=8&hide_border=true&bg_color=null)](https://github.com/anuraghazra/github-readme-stats)
-[![naixt1478's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=naixt1478&hide_border=true)](https://solved.ac/naixt1478)
