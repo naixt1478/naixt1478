@@ -8,6 +8,8 @@ Hello World!
 ![CMake](https://img.shields.io/badge/CMake-black?style=for-the-badge&logo=CMake&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-black?style=for-the-badge&logo=PowerShell&logoColor=white)
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white&labelColor=black&color=black"/>
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-black?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ### 나중에 배울 언어?
 
