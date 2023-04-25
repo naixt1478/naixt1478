@@ -8,7 +8,7 @@ Hello World!
 ![PowerShell](https://img.shields.io/badge/PowerShell-black?style=for-the-badge&logo=PowerShell&logoColor=white)
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white&labelColor=black&color=black"/>
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-black?style=for-the-badge&logo=Arduino&logoColor=white)
+![AVR](https://img.shields.io/badge/AVR-black?style=for-the-badge&logoColor=white)
 
 ### 나중에 배울 언어?
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
