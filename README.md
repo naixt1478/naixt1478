@@ -20,6 +20,7 @@ working on stage
  - ~~The PRE ALPHA project : learn everything of C,C++ and write they~~
 
 under construction
+will be soon delete deprecated some project, repo
 
 History
 ---
