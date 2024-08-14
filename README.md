@@ -22,6 +22,8 @@ working on stage
 under construction  
 will be soon delete deprecated some project, repo
 
+Activities will continue after the end of university admissions (approximately November 2024).
+
 History
 ---
 ###  naixt1478's Trophy
